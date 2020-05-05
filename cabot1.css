@@ -1,0 +1,55 @@
+body {
+	background-color: #B22222;
+	
+}
+
+nav {
+	
+}
+
+a {
+	
+}
+
+p {
+	
+}
+
+.navigation {
+	
+}
+
+.header {
+}
+	
+
+.bar {
+	
+}
+.content {
+	
+
+}
+
+.Accomodations {
+	
+}
+
+.card  {
+	
+}
+
+.flex-container {
+  display: flex;
+  justify-content: left;
+  background-color: #9e0000;
+}
+
+.flex-container > div {
+  margin: 10px;
+  text-align: left;
+  line-height: 50px;
+  font-size: 18px;
+}
+
+
